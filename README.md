@@ -6,3 +6,6 @@ No JavaScript, o código acessa esses elementos e troca a imagem do semáforo co
 No modo automático, é usado o setInterval para alternar as cores sozinho, seguindo a sequência correta.
 
 Esse projeto me ajudou a aprender sobre eventos, funções, troca de imagens e uso de temporizadores em JavaScript.
+
+
+ visite meu semaforo https://ryuditec.github.io/semaforo/
